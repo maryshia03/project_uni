@@ -59,3 +59,8 @@ uni_project/
 
 https://github.com/maryshia03/uni_project?utm_source=chatgpt.com
 
+## 🔹 Brief project reflection
+
+the whole project was a big challange for me, the first time i had a real project to present was big enough for me to be scared but as you - the teacher - said , i used AI to do the project somehow successfully.
+I don't know how successfull i was but during the project i learnt to command properly to AI, work with it and write the prompts the most responsive way.
+I also learnt where to place css and HTML tag currectly eventhough i had no clue how to do before i start the project.
